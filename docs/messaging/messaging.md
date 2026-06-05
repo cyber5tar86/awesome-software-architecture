@@ -53,7 +53,14 @@
 - [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
 - [Building an Event Driven .NET Application: The Fundamentals](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-the-fundamentals)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
-
+- [Kafka vs RabbitMQ vs AWS SNS/SQS: Which Broker to Choose?](https://www.aspecto.io/blog/kafka-vs-rabbitmq-vs-aws-sns-sqs-which-broker-to-choose/)
+- [Event Pitfalls (and How to Avoid Them)](https://dev.to/peholmst/event-pitfalls-and-how-to-avoid-them-4d31)
+- [Designing Domain Events](https://medium.com/casaone-engineering/designing-domain-events-5efc6e25da52)
+- [Competing Consumers Pattern for Scalability](https://codeopinion.com/competing-consumers-pattern-for-scalability/)
+- [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
+- [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
+- [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
+- [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://lukaszcoding.com/sharing-data-between-modules-in-modular-monolith/)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -68,12 +75,20 @@
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
 - [Competing Consumers Pattern for Scalability | Message Queues](https://www.youtube.com/watch?v=xv6Ljbq6me8)
+- [Event Driven Architecture for Real-Time Web](https://www.youtube.com/watch?v=Tu1GEIhkIqU)
+- [Learnings from Running 1000s of Production RabbitMQ Clusters • Lovisa Johansson • RabbitMQ Summit](https://www.youtube.com/watch?v=nxQrpLfX3rs)
+- [What is Event Driven Architecture? (EDA - part 1)](https://www.youtube.com/watch?v=DQ5Cbt8DQbM)
+- [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
+- [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
+- [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
+- [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
+- [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
+- [Synchronous vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
 - [Foundatio](https://github.com/exceptionless/Foundatio) - A common interface with in memory, redis and azure implementations.
 - [Kledex](https://github.com/lucabriguglia/Kledex) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
 - [MQTTnet](https://github.com/chkr1011/MQTTnet) - Tnet is a high performance .NET library for MQTT based communication.
 - [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 - [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
@@ -101,6 +116,7 @@
 - [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [dasiths/SimpleMediator](https://github.com/dasiths/SimpleMediator) - A .NET/C# implementation of the mediator pattern with support for queries, commands and events
+- [mayuanyang/Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported
 - [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
 - [AsynkronIT/protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus) - A lightweight Peer to Peer Service Bus
@@ -109,6 +125,17 @@
 - [nats-io/nats.net](https://github.com/nats-io/nats.net) - The official C# Client for NATS
 - [zeromq/netmq](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
 - [zeromq/clrzmq4](https://github.com/zeromq/clrzmq4) - ZeroMQ C# namespace (.NET and mono, Windows, Linux and MacOSX, x86 and amd64)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
+- [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe) - High performance in-memory/distributed messaging pipeline for .NET and Unity.
+- [cfrenzel/Eventfully](https://github.com/cfrenzel/Eventfully) - Lightweight Reliable Messaging Framework using Outbox Pattern / EFCore / AzureServiceBus
+- [daniellittledev/Enexure.MicroBus](https://github.com/daniellittledev/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
+- [simplesoft-pt/Mediator](https://github.com/simplesoft-pt/Mediator) - Small .NET library that helps with the implementation of mediator pattern for commands, events and queries
+- [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+- [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
+- [AlphaYu/Adnc](https://github.com/AlphaYu/Adnc) - The microservice framework is also suitable for the development of monolithic architecture systems. It supports the classic three-tier and DDD architecture development model, and integrates a series of mainstream and stable microservice supporting technology stacks. A framework with front-end and back-end separation. The front-end is based on Vue and the back-end is built on .Net 5.0.
+- [Im5tu/OpenMessage](https://github.com/Im5tu/OpenMessage) - Receive messages from multiple sources using a centralised delivery pipeline
+- [SorenZ/Alamut.Kafka](https://github.com/SorenZ/Alamut.Kafka) - An opinionated approach to use Apache Kafka in Dotnet
+- [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
 
 ## 📚 Books
 

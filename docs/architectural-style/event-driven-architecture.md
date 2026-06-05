@@ -24,8 +24,22 @@
 - [6 Event Driven Architecture Patterns — Part 2](https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-2-455cc73b22e1)
 - [Event Based Architecture: What do you mean by EVENT?](https://codeopinion.com/event-based-architecture-what-do-you-mean-by-event/)
 - [How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
+- [The Outbox Pattern in Event-Driven ASP.NET Core Microservice Architectures](https://itnext.io/the-outbox-pattern-in-event-driven-asp-net-core-microservice-architectures-10b8d9923885)
 - [Building an Event Driven .NET Application: The Fundamentals](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-the-fundamentals)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
+- [The Engineers Guide to Event-Driven Architectures: Benefits and Challenges](https://medium.com/swlh/the-engineers-guide-to-event-driven-architectures-benefits-and-challenges-3e96ded8568b)
+- [The event notification pattern](https://medium.com/geekculture/the-event-notification-pattern-a62d48519107)
+- [The 6 Things You Need to Know About Event-Driven Architectures](https://medium.com/swlh/the-6-things-you-need-to-know-about-event-driven-architectures-38e11fdcb5a)
+- [Event-Driven on Azure: Part 1 – Why you should consider an event-driven architecture](https://techcommunity.microsoft.com/t5/apps-on-azure/event-driven-on-azure-part-1-why-you-should-consider-an-event/ba-p/2106983)
+- [Event-Driven on Azure: Part 2 – Architecting event driven applications](https://techcommunity.microsoft.com/t5/apps-on-azure/event-driven-on-azure-part-2-architecting-event-driven/ba-p/2414007)
+- [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824)
+- [A Visual Introduction to Debezium](https://medium.com/event-driven-utopia/a-visual-introduction-to-debezium-32563e23c6b8)
+- [A Gentle Introduction to Event-driven Change Data Capture](https://medium.com/event-driven-utopia/a-gentle-introduction-to-event-driven-change-data-capture-683297625f9b)
+- [Event-driven APIs — Understanding the Principles](https://medium.com/event-driven-utopia/event-driven-apis-understanding-the-principles-c3208308d4b2)
+- [Event-driven APIs in Microservice Architectures](https://github.com/wso2/reference-architecture/blob/master/event-driven-api-architecture.md)
+- [Event-driven vs REST API interactions](https://apifriends.com/api-management/event-driven-vs-rest-api-interactions/)
+- [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
+- [3 Specifications to Consider When Designing Event-Driven Applications](https://medium.com/event-driven-utopia/3-specifications-to-consider-when-designing-event-driven-applications-c12685efd7ad)
 ## 📺 Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 
@@ -39,6 +53,14 @@
 - [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://www.youtube.com/watch?v=ksRCq0BJef8)
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
 - [Event Based Architecture: What do you mean by EVENT?](https://www.youtube.com/watch?v=qKD2YUTJAXM)
+- [Event Driven Architecture for Real-Time Web](https://www.youtube.com/watch?v=Tu1GEIhkIqU)
+- [What is Event Driven Architecture? (EDA - part 1)](https://www.youtube.com/watch?v=DQ5Cbt8DQbM)
+- [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
+- [What is Event Driven Architecture (EDA)?](https://www.youtube.com/watch?v=o2HJCGcYwoU)
+- [What is Event-driven Change Data Capture Process?](https://www.youtube.com/watch?v=-irkDCmHhKk)
+## Books
+- [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
+
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

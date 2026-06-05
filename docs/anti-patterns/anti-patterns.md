@@ -1,12 +1,9 @@
 # Anti Patterns
 
 ## 📘 Resources
-
 - [Anti Patterns](https://deviq.com/antipatterns/antipatterns-overview) 
 
-## 📕 Articles
-
-- [Don't POOP - The Partial/Optional Object Population Anti-Pattern](https://scotthannen.org/blog/2021/04/19/partial-optional-object-population.html)
+## 📕 Articles- [Are These Six Software Anti-patterns Killing Your Delivery?](https://medium.com/expedia-group-tech/six-software-anti-patterns-that-kill-your-delivery-4fed09cc1a2b)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

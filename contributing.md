@@ -6,8 +6,9 @@
 * The link should be the name of the package or project or article.
 * Keep descriptions concise, clear and simple.
 * New categories, or improvements to the existing ones are also welcome.
+* If you add new category don't forget to add it to `mkdocs.yml` file in root of this project and `index.md` file corresponding to this category
+* If you add new category you should create a new `md file` for this category
 * Your links will check for ensuring quality.
-* For now for cleaner repository for samples and libraries sections I put only c# related samples and libraries.
 
 ## Pull requests workflow
 

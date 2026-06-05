@@ -6,6 +6,7 @@
 - [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/) 
 - [Domain Model Validation](http://www.kamilgrzybek.com/design/domain-model-validation/) 
 - [Validation in a DDD world](https://lostechies.com/jimmybogard/2009/02/15/validation-in-a-ddd-world/) 
+- [Domain Command Patterns - Validation](https://jimmybogard.com/domain-command-patterns-validation/)
 - [Validation in Domain-Driven Design (DDD)](http://gorodinski.com/blog/2012/05/19/validation-in-domain-driven-design-ddd/)
 - [Validation and DDD](https://enterprisecraftsmanship.com/posts/validation-and-ddd/) 
 - [C# code contracts vs input validation](https://enterprisecraftsmanship.com/posts/code-contracts-vs-input-validation/) 
@@ -27,8 +28,15 @@
 - [Scaffold Your Clean DDD Web Application - Part 4: Global Exception Handling in ASP.NET Core and Angular](https://blog.jacobsdata.com/2020/11/12/scaffold-your-clean-ddd-web-application-part-4-global-exception-handling-in-aspnet-core-and-angular)
 ## 📦 Libraries
 
-- [GuardClauses](https://github.com/ardalis/GuardClauses) 
-  > A simple package with guard clause extensions.
+- [GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
+- [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET
+- [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
+- [khellang/Middleware.ProblemDetails](https://github.com/khellang/Middleware/tree/master/src/ProblemDetails) - Various ASP.NET Core middleware
+- [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
+- [JosephWoodward/GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - Exception handling as a convention in the ASP.NET Core request pipeline.
+- [safakgur/guard](https://github.com/safakgur/guard) - A high-performance, extensible argument validation library.
+- [FluentValidation/FluentValidation](https://github.com/FluentValidation/FluentValidation) - A popular .NET validation library for building strongly-typed validation rules.
+
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

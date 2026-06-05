@@ -21,9 +21,23 @@
 - [My experience of using modular monolith and DDD architectures](https://www.thereformedprogrammer.net/my-experience-of-using-modular-monolith-and-ddd-architectures/)
 - [Evolving modular monoliths: 1. An architecture for .NET](https://www.thereformedprogrammer.net/evolving-modular-monoliths-1-an-architecture-for-net/)
 - [Evolving modular monoliths: 2. Breaking up your app into multiple solutions](https://www.thereformedprogrammer.net/evolving-modular-monoliths-2-breaking-up-your-app-into-multiple-solutions/)
+- [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
+- [Majestic Modular Monoliths](https://lukashajdu.com/post/majestic-modular-monolith/)
+- [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://lukaszcoding.com/sharing-data-between-modules-in-modular-monolith/)
 
+## 📺 Videos
+- [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+- [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
+- [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=h_rBDIC51C4)
+- [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=tpeOWlif1l4)
+- [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
+- [Decompose your monolith- when and how to incrementally refactor to microservices](https://vimeo.com/442842127/543b578f38)
+- [GOTO 2019 • Monolith Decomposition Patterns • Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
+- [GOTO 2016 • From Monolith to Microservices at Zalando • Rodrigue Schaefer](https://www.youtube.com/watch?v=gEeHZwjwehs)
+- [How to design and code a scaleable solution (from monolith to microservices)](https://www.youtube.com/watch?v=rzjy2DDPwio)
+- [Deconstructing the Monolith (Shopify Unite Track 2019)](https://www.youtube.com/watch?v=ISYKx8sa53g)
+- [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
 ## 🚀 Samples
-
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system
 - [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
@@ -42,18 +56,10 @@
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 - [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+- [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop) - Source code for https://threedots.tech/post/microservices-or-monolith-its-detail/ article.
+- [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Blazor Web Assembly.
+- [marcinstelmach/AwesomeBank](https://github.com/marcinstelmach/AwesomeBank) - Bank system in .NET 5.0 using DDD, CQRS, modular monolith architecture
+- [stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.
+- [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
+- [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
 
-## 📺 Videos
-
-- [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
-- [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
-- [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=h_rBDIC51C4)
-- [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=tpeOWlif1l4)
-- [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
-- [Decompose your monolith- when and how to incrementally refactor to microservices](https://vimeo.com/442842127/543b578f38)
-- [GOTO 2019 • Monolith Decomposition Patterns • Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
-- [GOTO 2016 • From Monolith to Microservices at Zalando • Rodrigue Schaefer](https://www.youtube.com/watch?v=gEeHZwjwehs)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

@@ -7,14 +7,13 @@ repo_url: https://github.com/mehdihadeli/awesome-software-architecture
 edit_uri: edit/master/docs/
 theme: 
   name: material 
+  palette:
+    primary: 'deep purple'
+    accent: 'indigo'  
   prev_next_buttons_location: both
   navigation_depth: 4
   titles_only: False
   sticky_navigation: True
-extra_css:
-  - static/extra.css
-extra_javascript:
-  - js/extra.js
 markdown_extensions:
   - smarty
   - sane_lists
@@ -47,10 +46,10 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
-      #baselevel: 2
 
 nav:
 - Software Architecture: software-architecture.md
+- Algorithms: algorithm.md
 - Architectural Style: 
   - Architectural Style: architectural-style/architectural-style.md
   - N-Layer Architecture: architectural-style/nlayer-architecture.md
@@ -63,21 +62,25 @@ nav:
   - Component Based Architecture: architectural-style/component-based-architecture.md
 - Architectural Design Principles: 
   - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
-  - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
-  - Encapsulation: architectural-design-principles/encapsulation.md
-  - Dependency Inversion: architectural-design-principles/dependency-inversion.md
-  - Interface Segregation Principle: architectural-design-principles/interface-segregation-principle.md
-  - Single Responsibility: architectural-design-principles/single-responsibility-principle.md
-  - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
-  - Command Query Separation: architectural-design-principles/cqs.md
-  - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
-  - DRY: architectural-design-principles/dry.md
-  - KISS: architectural-design-principles/kiss.md
-  - YAGNI: architectural-design-principles/yagni.md
-  - Coupling: architectural-design-principles/coupling.md
+  - CAP Theorem: architectural-design-principles/cap.md
   - Cohesion: architectural-design-principles/cohesion.md
-  - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
+  - Command Query Separation - CQS: architectural-design-principles/cqs.md
+  - Coupling: architectural-design-principles/coupling.md
+  - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
+  - Dependency Inversion: architectural-design-principles/dependency-inversion.md
+  - Donot Repeat Yourself - DRY: architectural-design-principles/dry.md
+  - Encapsulation: architectural-design-principles/encapsulation.md
+  - Fail-Fast: architectural-design-principles/fail-fast.md
+  - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
   - GRASP: architectural-design-principles/grasp.md
+  - Interface Segregation: architectural-design-principles/interface-segregation.md
+  - Inversion of Control: architectural-design-principles/inversion-control.md
+  - Keep It Simple - KISS: architectural-design-principles/kiss.md
+  - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
+  - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
+  - Single Responsibility: architectural-design-principles/single-responsibility.md
+  - SOLID: architectural-design-principles/solid.md
+  - YAGNI: architectural-design-principles/yagni.md
 - Architectural Patterns: 
   - Architectural Patterns: architectural-patterns/architectural-patterns.md
   - Domain Driven Design - Domain Centric: 
@@ -85,24 +88,38 @@ nav:
     - Aggregation: architectural-patterns/domain-driven-design/aggregation.md
     - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
     - Application Service: architectural-patterns/domain-driven-design/application-service.md
+    - Anti Corruption Layer: cloud-design-patterns/anti-corruption-layer-pattern.md
     - Bounded Context: architectural-patterns/domain-driven-design/bounded-context.md
     - Domain Events: architectural-patterns/domain-driven-design/domain-events.md
-    - Domain Primitives: architectural-patterns/domain-driven-design/domain-primitives.md
+    - Primitive obsession: architectural-patterns/domain-driven-design/domain-primitives.md
     - Domain Service: architectural-patterns/domain-driven-design/domain-service.md
     - Enums: architectural-patterns/domain-driven-design/enums.md
     - Exception And Validation: architectural-patterns/domain-driven-design/exception-and-validation.md
     - Infrastructure: architectural-patterns/domain-driven-design/infrastructure.md
     - Mapping: architectural-patterns/domain-driven-design/mapping.md
+    - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
     - Strategic Design Patterns: architectural-patterns/domain-driven-design/strategic-design-patterns.md
     - Tactical Design Patterns: architectural-patterns/domain-driven-design/tactical-design-patterns.md
     - Value Objects: architectural-patterns/domain-driven-design/value-objects.md
+    - Repository: architectural-patterns/domain-driven-design/repository.md
+    - ORMs:
+      - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md
   - Data Driven Design - Data Centric: architectural-patterns/data-driven-design.md
   - CQRS: architectural-patterns/cqrs.md
   - Event Sourcing: architectural-patterns/event-sourcing.md
   - Microservices: 
     - Microservices: architectural-patterns/microservices/microservices.md
-    - Distributed Tracing: architectural-patterns/microservices/distributed-tracing.md
-    - Observibility: architectural-patterns/microservices/observibility.md)
+    - Communication: architectural-patterns/microservices/communication.md
+    - Design Patterns:
+      - Design Patterns: architectural-patterns/microservices/design-patterns/design-patterns.md
+      - BFF: architectural-patterns/microservices/design-patterns/bff.md
+    - Observibility: 
+      - Observibility: architectural-patterns/microservices/observability/observibility.md
+      - Distributed Tracing: architectural-patterns/microservices/observability/distributed-tracing.md
+      - Diagnostics: architectural-patterns/microservices/observability/diagnostics.md
+      - Logging: architectural-patterns/microservices/observability/logging.md
+      - Monitoring: architectural-patterns/microservices/observability/monitoring.md   
+      - Metrics: architectural-patterns/microservices/observability/metrics.md         
     - Reverse Proxy:
       - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
       - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md
@@ -110,6 +127,14 @@ nav:
     - Service Discovery:
       - Service Discovery: architectural-patterns/microservices/service-discovery/service-discovery.md
       - Consul: architectural-patterns/microservices/service-discovery/consul.md
+    - Service Mesh: 
+      - Service Mesh: architectural-patterns/microservices/service-mesh/service-mesh.md
+      - Maesh: architectural-patterns/microservices/service-mesh/maesh.md
+      - Linkerd: architectural-patterns/microservices/service-mesh/linkerd.md
+      - Istio: architectural-patterns/microservices/service-mesh/istio.md
+      - Consul Connect: architectural-patterns/microservices/service-mesh/consul-connect.md
+    - Scaling: architectural-patterns/microservices/scaling.md
+    - Testing: architectural-patterns/microservices/testing.md
     - Tools: 
       - Tools: architectural-patterns/microservices/tools/tools.md
       - Dapr: architectural-patterns/microservices/tools/dapr.md
@@ -119,6 +144,7 @@ nav:
   - MicroKernel Architectural Pattern: architectural-patterns/micro-kernel.md
   - Modular Monolith: architectural-patterns/modular-monolith.md
 - Design Patterns: 
+  - Builder Pattern: design-patterns/builder.md
   - Design Patterns: design-patterns/design-patterns.md
   - Singleton: design-patterns/singleton.md
   - Decorator Pattern: design-patterns/decorator-pattern.md
@@ -127,6 +153,8 @@ nav:
   - Query Object Pattern: design-patterns/query-object-pattern.md
   - Factory Pattern: design-patterns/factory-pattern.md
   - Strategy Pattern: design-patterns/strategy-pattern.md
+  - Adapter Pattern: design-patterns/adapter-pattern.md
+  - Command Message Pattern: design-patterns/command-message-pattern.md
 - Cloud Design Patterns: 
   - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
   - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
@@ -139,9 +167,77 @@ nav:
   - Outbox Pattern: cloud-design-patterns/outbox-pattern.md
   - Saga Pattern: cloud-design-patterns/saga.md
   - Strangler Fig Pattern: cloud-design-patterns/strangler-fig-pattern.md
+- Cloud Native:
+  - API Gateway: 
+    - API Gateway: cloud-native/api-gateway/api-gateway.md
+    - Ambassador: cloud-native/api-gateway/ambassador.md
+    - Kong: cloud-native/api-gateway/kong.md
+    - Ocelot: cloud-native/api-gateway/ocelot.md
+  - Container Runtime: 
+    - Container Runtime: cloud-native/container-runtime/container-runtime.md
+    - Containerd: cloud-native/container-runtime/containerd.md
+    - Cri-o: cloud-native/container-runtime/crio.md
+    - Docker: 
+      - Docker: cloud-native/container-runtime/docker/docker.md
+      - Docker Compose: cloud-native/container-runtime/docker/docker-compose.md
+  - Kubernetes: 
+    - Kubernetes: cloud-native/kubernetes/kubernetes.md
+    - Deployment Strategies: cloud-native/kubernetes/deployment-strategies.md
+    - Deployment Tools: 
+      - Argo-CD: cloud-native/kubernetes/deployment-tools/argo-cd.md
+      - Helm: cloud-native/kubernetes/deployment-tools/helm.md
+      - Kubernetes Operator: cloud-native/kubernetes/deployment-tools/kubernetes-operator.md
+      - Jenkins: cloud-native/kubernetes/deployment-tools/jenkins.md
+    - Ingress Controller: 
+      - Ingress Controller: cloud-native/kubernetes/ingress-controller.md
+      - Nginx Ingress: cloud-native/kubernetes/nginx-ingress.md
+      - Traefik Ingress: cloud-native/kubernetes/traefik-ingress.md
+    - Other Tools: 
+      - k3s: cloud-native/kubernetes/other-tools/k3s.md
+      - kind: cloud-native/kubernetes/other-tools/kind.md
+      - tilt: cloud-native/kubernetes/other-tools/tilt.md
+  - Load Balancing: 
+    - Load Balancing: cloud-native/load-balancing/load-balancing.md
+    - Fabio: cloud-native/load-balancing/fabio.md
+    - MetalLB: cloud-native/load-balancing/metallb.md
+    - Nginx: cloud-native/load-balancing/nginx.md
+    - Traefik: cloud-native/load-balancing/traefik.md
+    - Fabio: cloud-native/load-balancing/fabio.md
+  - Paas (Platform as a Service):
+    - Paas: cloud-native/paas/index.md
+    - Rancher: cloud-native/paas/rancher.md
+    - OpenShift: cloud-native/paas/openshift.md
+    - Heroku: cloud-native/paas/heroku.md
+    - Netlify: cloud-native/paas/netlify.md
+  - Iaas (Infrastructure as a Service):
+    - Infrastructure as a Service: cloud-native/iaas/iaas.md
+    - Terraform: cloud-native/iaas/terraform.md
+    - Pulumi: cloud-native/iaas/pulumi.md
+  - DevOps:
+    - CI/CD:
+      - Azure DevOps: cloud-native/devops/ci-cd/azure-devops.md
+      - Github Actions: cloud-native/devops/ci-cd/github-actions.md
+      - Jenkins: cloud-native/devops/ci-cd/jenkins.md
+  - Reverse Proxy:
+    - Reverse Proxy: cloud-native/reverse-proxy/reverse-proxy.md
+    - Envoy: cloud-native/reverse-proxy/envoy.md
+    - YARP: cloud-native/reverse-proxy/yarp.md
+    - HAProxy: cloud-native/reverse-proxy/haproxy.md
+  - Service Discovery & Registry: 
+    - Service Discovery & Registry: cloud-native/service-discovery/service-discovery.md
+    - Consul: cloud-native/service-discovery/consul.md
+    - Eureka: cloud-native/service-discovery/eureka.md
+  - Service Mesh: 
+    - Service Mesh: cloud-native/service-mesh/service-mesh.md
+    - Istio: cloud-native/service-mesh/istio.md
+    - Consul-Connect: cloud-native/service-mesh/consul-connect.md
+    - Maesh: cloud-native/service-mesh/maesh.md
+    - Linkerd: cloud-native/service-mesh/linkerd.md
 - Object Oriented Design: object-oriented-design.md
-- Distributed Systems Design: distributed-systems-design.md
-- Scalable Software Architecture: scalable-software-architecture.md
+- Systems Design: 
+  - Systems Design: systems-design/systems-design.md
+  - Consistent Hashing: systems-design/consistent-hash.md
+- Scaling: scaling.md
 - Clean Code: clean-code.md
 - Design Best Practices: 
   - Design Best Practices: design-best-practices/design-best-practices.md
@@ -150,7 +246,12 @@ nav:
   - Thin Controllers: design-best-practices/thin-controllers.md
 - Anti Patterns: 
   - Anti Patterns: anti-patterns/anti-patterns.md
+  - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
+  - Big Ball of Mud: anti-patterns/big-ball-of-mud.md
   - Code Smells: anti-patterns/code-smells.md
+  - Partial/Optional Object: anti-patterns/partial-object.md
+  - God Object: anti-patterns/god-object.md
+  - Static Cling: anti-patterns/static-cling.md
 - Eventual Consistency: eventual-consistency.md
 - Messaging Patterns:
   - Messaging Patterns: messaging/messaging.md
@@ -164,15 +265,41 @@ nav:
 - RESTful API Design: rest.md
 - Caching: caching.md
 - Aspect Oriented Programming: aop.md
+- Functional Programming: functional.md
 - Packaging: packaging.md
 - Refactoring: refactoring.md
-- Azure Application Architecture: 
+- NoSQL:
+  - NoSQL: nosql/nosql.md
+  - CosmosDB: nosql/cosmosdb.md
+  - DocumentDB: nosql/documentdb.md
+  - MongoDB: nosql/mongodb.md
+  - Postgresql: nosql/postgresql.md
+  - Sharding:(nosql/sharding.md)
+  - NoSQL: nosql/NoSQL.md
+- Azure Application Architecture:
   - Azure Application Architecture: azure/azure-application-architecture.md
-  - Azure Active Directory: azure/azure-active-directory.md
-  - Azure Functions: azure/azure-functions.md
-  - Azure Service Bus: azure/azure-service-bus.md
+  - Azure API Management: azure/azure-api-management.md
+  - Azure App Service: azure/azure-app-service.md
+  - Azure Functions / Azure Serverless: azure/azure-functions.md
+  - Azure Kubernetes Service (AKS): azure/aks.md
+  - Azure Load Balancing: azure/azure-load-balancing.md
+  - Azure Logic App: azure/azure-logic-app.md
+  - Azure No SQL: azure/azure-nosql.md
+  - Azure Messaging:
+    - Azure Messaging: azure/messaging/messaging.md
+    - Azure Event Grid: azure/azure-event-grid.md
+    - Azure Event Hub: azure/azure-event-hub.md
+    - Azure Queue: azure/azure-queue.md
+    - Azure Service Bus: azure/azure-service-bus.md
+    - Azure Web Pub/Sub: azure/azure-web-pub-sub.md
+  - Azure Resource Manager (ARM): azure/azure-resource-manager.md
+  - Azure Sequrity: 
+    - Azure Sequrity: azure/azure-security/azure-security.md
+    - Azure Active Directory (Azure AD): azure/azure-active-directory.md
+    - Azure Key Vault: azure/azure-key-vault.md
+  - Azure SQL: azure/azure-sql.md
+  - Azure Storage: azure/azure-storage.md
   - Azure Template: azure/azure-template.md
-  - Azure Identity: azure/azure-identity.md
 - Modeling: 
   - Modeling: modeling/modeling.md
   - Architecture Diagram: modeling/architecture-diagram.md
@@ -188,6 +315,8 @@ nav:
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
 - Event Storming: event-storming.md
+- Open Source: open-source.md
+- Architecture Decision Records (ADR): adr.md
 - Engineering Blogs: engineering-blogs.md
 - Others: others.md
 

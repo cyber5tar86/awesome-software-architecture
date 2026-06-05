@@ -47,6 +47,18 @@
 - [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
 - [CQRS - CodeWithShadman](https://codewithshadman.com/cqrs/)
 - [Mediator Pattern Implemented In .NET/C#](https://dasith.me/2019/01/07/mediator-pattern-implemented-in-net/)
+- [Getting Started with CQRS – Part 1](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-1/)
+- [Getting Started with CQRS – Part 2](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-2/)
+- [Getting Started with CQRS – Part 3](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-3/)
+- [CQRS with MediatR in ASP.NET Core 3.1 – Ultimate Guide](https://codewithmukesh.com/blog/cqrs-in-aspnet-core-3-1/)
+- [Optimize your data access by using CQRS Architecture Pattern — Part I](https://itnext.io/cqrs-architecture-pattern-c7f5c613c59c)
+- [Optimize your data access by using CQRS Architecture Pattern — Part II](https://itnext.io/optimize-your-data-access-by-using-cqrs-architecture-pattern-a-theoretical-and-practical-approach-part-1-b31fe259ea04)
+- [CQRS and REST: the perfect match](https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/)
+- [Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)
+- [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
+- [CQRS: Intro](https://valerii-udodov.com/posts/cqrs/cqrs-intro/)
+- [CQRS: Querying via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-querying-via-http/)
+- [CQRS: Commanding via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-commanding-via-http/)
 ## 📺 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
@@ -82,7 +94,10 @@
 - [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
 - [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
 - [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
-- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse)
+- [keremvaris/Sennedjem](https://github.com/keremvaris/Sennedjem) - Sennedjem is a software development infrastructure that adopts the CQRS (Command Query Responsibility Segregation) approach and focuses on SOLID principles and Clean Architecture methods. RabbitMq is very skilled in integrating with ElasticSearch etc tools. 
+- [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
+- [MongkonEiadon/VehicleTracker](https://github.com/MongkonEiadon/VehicleTracker) - Vehicle Tracker with Microservice example
+- [yang-xiaodong/eShopOnContainers](https://github.com/yang-xiaodong/eShopOnContainers) - Replace eShopOnContainers EventBus with CAP
+- [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
+- [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)

@@ -8,7 +8,7 @@
 - [https://github.com/wwerner/event-storming-cheatsheet](https://github.com/wwerner/event-storming-cheatsheet)
 
 ## 📕 Articles
-
+- [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
 - [Reactive in practice, Unit 1: Event storming the stock trader domain](https://developer.ibm.com/technologies/java/tutorials/reactive-in-practice-1/)
 - [Event Storming](https://ibm-cloud-architecture.github.io/refarch-eda/methodology/event-storming/)
 - [Event storming analysis](https://ibm-cloud-architecture.github.io/refarch-kc/implementation/event-storming-analysis/)
@@ -40,6 +40,8 @@
 - [Remote Team Flow EventStorming for Retrospectives](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 - [EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc)
 - [Outside-in Domain Landscape Discovery](https://medium.com/nick-tune-tech-strategy-blog/outside-in-domain-landscape-discovery-3ec88aeb70db)
+- [Event Storming and Spring with a Splash of DDD](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
+- [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
 ## 📺 Videos
 
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
@@ -47,30 +49,23 @@
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 201](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff (Thursday's Matter)](https://www.youtube.com/watch?v=jdU_iTBP2Qs)
-
+- [Webinar: Extreme Domain-Driven Design Modelling - Tech Talk by Nexten](https://www.youtube.com/watch?v=uJ4mPU1i6E0)
 ## 🚀 Samples
-
+- [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 - [Event Storming](https://miro.com/app/board/o9J_kt3rZb4=/?fromEmbed=1)
-
 - [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
-
-- [RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService) 
-  > Scoping and Organizing .NET Microservices Using Event Storming
-
-- [RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized) 
-  > Scoping and Organizing .NET Microservices Using Event Storming
-
-- [RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs) 
-  > Scoping and Organizing .NET Microservices Using Event Storming
-
-- [RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) 
-  > Scoping and Organizing .NET Microservices Using Event Storming
-
+- [RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService) - Scoping and Organizing .NET Microservices Using Event Storming
+- [RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized) - Scoping and Organizing .NET Microservices Using Event Storming
+- [RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs) - Scoping and Organizing .NET Microservices Using Event Storming
+- [RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) - Scoping and Organizing .NET Microservices Using Event Storming
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff](https://miro.com/app/board/o9J_lSf4hpY=/)
+- [Strategic DDD Kata: Delivericious](https://miro.com/app/board/o9J_l45tkpU=/)
 ## 📚 Books
-
+- [Learn EventStorming notation & discover Big Picture and Process Level EventStorming](https://lukaszcoding.com/eventstorming-cheatsheet)
 - [Introducing EventStorming - Alberto Brandolini](https://leanpub.com/introducing_eventstorming) 
-
+- [Domain-Driven Design The First 15 Years](https://dddeurope.com/15years/)
+- [Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles](https://www.amazon.com/Hands-Domain-Driven-Design-NET-ebook/dp/B07C5WSR9B)
+- [Domain-Driven Design Distilled by Vaughn Vernon](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
