@@ -9,8 +9,6 @@
 
 > Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
 
-Hi! My name is [Mehdi Hadeli](https://github.com/mehdihadeli). I created this repository to share a set of links that I found valuable and inspiring. I hope that you'll like it!
-
 **🚀 This awesome list is available in this link:**
 **[https://awesome-architecture.com](https://awesome-architecture.com/)**
 
