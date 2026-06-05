@@ -44,6 +44,8 @@
 - [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 - [Introducing Clean Architecture by refactoring a Go project](https://threedots.tech/post/introducing-clean-architecture/)
 - [Clean Event-Driven Architecture](https://valerii-udodov.com/posts/event-sourcing/clean-event-driven-architecture/)
+- [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
+- [Clean Architecture Example & Breakdown](https://codeopinion.com/clean-architecture-example-breakdown/)
 
 ## 📺 Videos
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 
@@ -61,6 +63,11 @@
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=dkj-WwxrgyI) 
 - [How Do You Structure Your Go Apps? by Kat Zień. GoWayFest 2018 Minsk](https://www.youtube.com/watch?v=Qtk9FFOoT5M)
 - [On .NET Live - Commands, Queries, and Clean Architecture](https://www.youtube.com/watch?v=IRvDGPbxdTs)
+- [Clean Architecture and Brighter with Ian Cooper](https://www.youtube.com/watch?v=dlhvBR4gd04)
+- [DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
+- [How to structure a .NET Solution (project separation & architecture)](https://www.youtube.com/watch?v=YiVqwoFMieg)
+- [Clean Architecture with ASP.NET Core by Steve Smith | BRDNUG June 2021](https://www.youtube.com/watch?v=D6IEnMTuawA)
+- [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
 ## 🚀 Samples
 
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
@@ -105,8 +112,10 @@
 - [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
 - [keremvaris/Sennedjem](https://github.com/keremvaris/Sennedjem) - Sennedjem is a software development infrastructure that adopts the CQRS (Command Query Responsibility Segregation) approach and focuses on SOLID principles and Clean Architecture methods. RabbitMq is very skilled in integrating with ElasticSearch etc tools. 
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
+- [iancooper/CA-Tutorial](https://github.com/iancooper/CA-Tutorial) - Implementing the Clean Architecture in .NET
+- [dimatrubca/book-exchange-app](https://github.com/dimatrubca/book-exchange-app) - BookExchangeApp is a fully functioning application that allows users to exchange books, earn and buy points, and receive recomendations based on the rated books
+- [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - .NET WebAPI Boilerplate Template built with .NET 6.0. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
 ## 📚 Books
-
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 
 <div align="right">

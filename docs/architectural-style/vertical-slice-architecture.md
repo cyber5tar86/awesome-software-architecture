@@ -18,7 +18,6 @@
 - [Vertical slices in ASP.NET MVC](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
 - [Coding: Packaging by vertical slice](https://markhneedham.com/blog/2012/02/20/coding-packaging-by-vertical-slice/)
 - [FEATURE FOLDERS IN ASP.NET MVC](https://timgthomas.com/2013/10/feature-folders-in-asp-net-mvc/)
-- [Evolutionary Project Structure](https://lostechies.com/jimmybogard/2012/08/30/evolutionary-project-structure/) 
 - [Vertical Slice Example Updated to .NET 5](https://lostechies.com/external/?guid=urn:uuid:cac73d2f-ce70-1e57-8eff-5fd747af25f6)
 - [Feature Folders](http://www.kamilgrzybek.com/design/feature-folders/) 
 - [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
@@ -37,6 +36,15 @@
 - [What Are Your Thoughts On The Vertical Slice Architecture?](https://www.reddit.com/r/dotnet/comments/gej15i/what_are_your_thoughts_on_the_vertical_slice/)
 - [Why I Recommend a Feature-Driven Approach to Software Design](https://khalilstemmler.com/articles/software-design-architecture/feature-driven/)
 - [Composite UIs for Microservices: Vertical Slice APIs](https://jimmybogard.com/composite-uis-for-microservices-vertical-slice-apis/)
+- [How to slice the codebase effectively?](https://event-driven.io/en/how_to_slice_the_codebase_effectively/)
+- [Fat Controller CQRS Diet: Vertical Slices](https://codeopinion.com/fat-controller-cqrs-diet-vertical-slices/)
+- [CQRS facts and myths explained](https://event-driven.io/en/cqrs_facts_and_myths_explained/)
+- [Slices vs. Layers](https://www.betterask.erni/news-room/slices-vs-layers/)
+- [Modular Monolith: A Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/)
+- [Choosing Between using Clean/Onion or Vertical Slice Architecture for Enterprise Apps in .NET](https://www.reddit.com/r/dotnet/comments/lw13r2/choosing_between_using_cleanonion_or_vertical/)
+- [Clean Architecture Example & Breakdown](https://codeopinion.com/clean-architecture-example-breakdown/)
+- [Vertical Slice testing done right: a tutorial](https://headspring.com/2020/09/02/testing-done-right-with-vertical-slice-architecture/)
+- [Restructuring to a Vertical Slice Architecture](https://codeopinion.com/restructuring-to-a-vertical-slice-architecture/)
 ## 📺 Videos
 
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
@@ -44,11 +52,16 @@
 - [SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M) 
 - [DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture](https://www.youtube.com/watch?v=T6nglsEDaqA) 
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg)
-
+- [Blazor Server Vertical Slice Architecture](https://www.youtube.com/watch?v=WLNEeO5cMaw)
+- [Restructuring to a Vertical Slice Architecture](https://www.youtube.com/watch?v=cVVMbuKmNes)
+- [Organize Code by Feature | Vertical Slices](https://www.youtube.com/watch?v=PRns0rqPonA)
+- [Vertical Slice Architecture](https://www.youtube.com/watch?v=id2kfgzONMA)
+- [Clean Architecture Example & Breakdown - Do I use it?](https://www.youtube.com/watch?v=Ys_W6MyWOCw)
 ## 🚀 Samples
 
-- [jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) 
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 
+- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
+- [sandeepgangwar/Vertical-Slice-Architecture](https://github.com/sandeepgangwar/Vertical-Slice-Architecture)
 - [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold a .Net 5 Web-Api project with MongoDB as the data store.
 - [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) - Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
 - [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
@@ -57,7 +70,6 @@
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) 
 - [ardalis/ApiEndpoints/tree/master/sample](https://github.com/ardalis/ApiEndpoints/tree/master/sample)
 - [PacktPublishing/ASP.NET-Core-5-Design-Patterns](https://github.com/PacktPublishing/ASP.NET-Core-5-Design-Patterns/tree/main/C15/Vertical%20Slice%20Architecture)
-- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 ## 📚 Books
 
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)

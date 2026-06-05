@@ -5,6 +5,7 @@
 - [fhsinchy/kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects) - Project codes used in "The Kubernetes Handbook
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 ## 📕 Articles
 - [Kubernetes By Example](https://kubernetesbyexample.com/)
 - [Kubernetes & Traefik 101— When Simplicity Matters](https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8)
@@ -22,15 +23,17 @@
 - [Kubernetes Essentials Playlist - IBM Cloud](https://www.youtube.com/playlist?list=PLOspHqNVtKABAVX4azqPIu6UfsPzSu2YN)
 - [Kubernetes 101 Playlist - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
 
-## Libraries
+## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs
 - [buehler/dotnet-operator-sdk](https://github.com/buehler/dotnet-operator-sdk) - KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.
+- [derailed/k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
-	
+- [vany0114/microservices-dotnetcore-docker-sf-k8s](https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s) - Shows an approach to work with a microservices based architecture using .Net Core, Docker, and Azure Service Fabric/Kubernetes, applying Domain Driven Design (DDD) and Comand and Query Responsibility Segregation (CQRS) and other patterns.
+- [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 ## Books
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.amazon.com/Kubernetes-Best-Practices-Blueprints-Applications/dp/1492056472/)

@@ -24,7 +24,9 @@
 - [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
 - [Majestic Modular Monoliths](https://lukashajdu.com/post/majestic-modular-monolith/)
 - [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://lukaszcoding.com/sharing-data-between-modules-in-modular-monolith/)
-
+- [Event Modeling & Modular Monolith | From colored cards to code through TDD](https://zycienakodach.pl/event-modeling-modularny-monolit)
+- [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
+- [Improving Monolith's Availability](https://www.ledjonbehluli.com/posts/improving_monoliths_availability/)
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -62,4 +64,6 @@
 - [stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
+- [devmentors/modular-framework](https://github.com/devmentors/modular-framework)
+- [devmentors/Inflow](https://github.com/devmentors/Inflow)
 

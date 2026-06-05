@@ -1,5 +1,5 @@
 
-# Domain Driven Design - Domain Centric
+# Domain Driven Design (DDD) - Domain Centric
 
 ## 📘 Resources
 
@@ -67,9 +67,17 @@
 - [Domain-Driven Refactoring: Procedural Beginnings](https://jimmybogard.com/domain-driven-refactoring-procedural-beginnings/)
 - [Domain-Driven Refactoring: Long Methods](https://jimmybogard.com/domain-driven-refactoring-long-methods/)
 - [Domain-Driven Refactoring: Extracting Domain Services](https://jimmybogard.com/domain-driven-refactoring-extracting-domain-services/)
+- [Domain-Driven Refactoring: Defactoring and Pushing Behavior Down](https://jimmybogard.com/domain-driven-refactoring-defactoring-and-pushing-behavior-down/)
+- [Domain-Driven Refactoring: Encapsulating Data](https://jimmybogard.com/domain-driven-refactoring-encapsulating-data/)
 - [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 - [Design a No Duplicates Rule in your Domain Model?](https://ardalis.com/design-no-duplicates-rule-in-domain-model/?utm_sq=gliw3qv7yr)
 - [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/posts/ef-core-vs-nhibernate-ddd-perspective/)
+- [How to Handle Updates on Aggregates - Domain-Driven Design w/ TypeScript](https://khalilstemmler.com/articles/typescript-domain-driven-design/updating-aggregates-in-domain-driven-design/)
+- [DDD: guidance on updating multiple properties of entities](https://stackoverflow.com/questions/33698225/ddd-guidance-on-updating-multiple-properties-of-entities)
+- [Practical DDD in Golang: Aggregate](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
+- [What is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
+- [Domain-Driven Refactoring: Encapsulating Collections](https://jimmybogard.com/domain-driven-refactoring-encapsulating-collections/)
+
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -80,6 +88,8 @@
 - [STOP "doing" Domain Driven Design](https://www.youtube.com/watch?v=8XmXhXH_q90)
 - [Webinar: Domain Driven Design](https://www.youtube.com/watch?v=dq7e_L4jIak)
 - [The Intersection of Microservices, Domain-Driven Design and Entity Framework Core](https://www.youtube.com/watch?v=DG8Qe7TJiIE)
+- [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
+
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core) - Self study: DDD, .net core, entity framework core
@@ -132,6 +142,13 @@
 - [CodelyTV/typescript-ddd-example](https://github.com/CodelyTV/typescript-ddd-example) - TypeScript DDD Example: Bootstrap your new projects or be inspired by this example project
 - [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
 - [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
+- [ttulka/ddd-example-ecommerce](https://github.com/ttulka/ddd-example-ecommerce) - Domain-driven design example in Java with Spring framework
+- [marcinstelmach/Ecommerce.Api](https://github.com/marcinstelmach/Ecommerce.Api) - Ecommerce in .net core 2.2, C#, MediaTr, CQRS, DDD, Autofac, DI, Entity Framework Core, Memory Cache, Serilog
+- [thiagocruzrj/E-commerce-DDD](https://github.com/thiagocruzrj/E-commerce-DDD) - DDD applied in E-commerce context.
+- [devmentors/Inflow](https://github.com/devmentors/Inflow)
+- [kalintsenkov/BettingSystem](https://github.com/kalintsenkov/BettingSystem) - ASP.NET Core | Domain-Driven Design | Clean Architecture
+- [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.
+- [MesutAtasoy/Joker](https://github.com/MesutAtasoy/Joker) - An example of microservices container based application which implemented different approaches within each microservice (DDD, CQRS, Simple CRUD)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

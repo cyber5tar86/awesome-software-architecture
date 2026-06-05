@@ -1,7 +1,7 @@
 	
 # Dapr
 
-## Resources
+## 📘 Resources
 - [Dapr Youtube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA/videos)
 - [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr) - A cruated list of awesome Dapr application runtime related tools.
 ## 📕 Articles
@@ -36,6 +36,10 @@
 - [Building Distributed Applications with .NET and Dapr](https://www.youtube.com/watch?v=4vUBnlEr4p4)
 - [Alex Thissen — Dapr for building distributed .NET Core applications](https://www.youtube.com/watch?v=FyFr5HzsQXE)
 - [Learn all about the latest features in Dapr](https://www.youtube.com/watch?v=I7A1bdoKV5M)
+- [Distributed Application Runtime, Introduction for .Net Developers](https://www.youtube.com/watch?v=ruQFIPZl2QM)
+## Libraries
+- [dapr/dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr
+
 ## 🚀 Samples
 - [dotnet-architecture/eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) - A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye

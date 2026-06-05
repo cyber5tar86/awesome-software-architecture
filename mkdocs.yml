@@ -83,14 +83,15 @@ nav:
   - YAGNI: architectural-design-principles/yagni.md
 - Architectural Patterns: 
   - Architectural Patterns: architectural-patterns/architectural-patterns.md
-  - Domain Driven Design - Domain Centric: 
-    - Domain Driven Design - Domain Centric: architectural-patterns/domain-driven-design/domain-driven-design.md
+  - Domain Driven Design - DDD: 
+    - Domain Driven Design: architectural-patterns/domain-driven-design/domain-driven-design.md
     - Aggregation: architectural-patterns/domain-driven-design/aggregation.md
     - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
     - Application Service: architectural-patterns/domain-driven-design/application-service.md
     - Anti Corruption Layer: cloud-design-patterns/anti-corruption-layer-pattern.md
     - Bounded Context: architectural-patterns/domain-driven-design/bounded-context.md
     - Domain Events: architectural-patterns/domain-driven-design/domain-events.md
+    - Integration Events: architectural-patterns/domain-driven-design/integration-event.md
     - Primitive obsession: architectural-patterns/domain-driven-design/domain-primitives.md
     - Domain Service: architectural-patterns/domain-driven-design/domain-service.md
     - Enums: architectural-patterns/domain-driven-design/enums.md
@@ -104,7 +105,10 @@ nav:
     - Repository: architectural-patterns/domain-driven-design/repository.md
     - ORMs:
       - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md
-  - Data Driven Design - Data Centric: architectural-patterns/data-driven-design.md
+  - Enterprise Architecture Patterns: 
+    - Enterprise Architecture Patterns :enterprise-architecture-patterns/enterprise-architecture-patterns.md 
+    - Transaction Script Pattern :enterprise-architecture-patterns/transaction-script-pattern.md
+  - Data Driven Design: architectural-patterns/data-driven-design.md
   - CQRS: architectural-patterns/cqrs.md
   - Event Sourcing: architectural-patterns/event-sourcing.md
   - Microservices: 
@@ -113,13 +117,18 @@ nav:
     - Design Patterns:
       - Design Patterns: architectural-patterns/microservices/design-patterns/design-patterns.md
       - BFF: architectural-patterns/microservices/design-patterns/bff.md
+      - Outbox Pattern: architectural-patterns/microservices/design-patterns/outbox-pattern.md
     - Observibility: 
       - Observibility: architectural-patterns/microservices/observability/observibility.md
       - Distributed Tracing: architectural-patterns/microservices/observability/distributed-tracing.md
       - Diagnostics: architectural-patterns/microservices/observability/diagnostics.md
       - Logging: architectural-patterns/microservices/observability/logging.md
       - Monitoring: architectural-patterns/microservices/observability/monitoring.md   
-      - Metrics: architectural-patterns/microservices/observability/metrics.md         
+      - Metrics: architectural-patterns/microservices/observability/metrics.md   
+    - Resiliency:
+      - Resiliency: architectural-patterns/microservices/resiliency/resiliency.md        
+      - High Availibility: architectural-patterns/microservices/resiliency/high-availibility.md        
+      - Circuit Breaker: architectural-patterns/microservices/resiliency/circuit-breaker.md        
     - Reverse Proxy:
       - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
       - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md
@@ -140,6 +149,8 @@ nav:
       - Dapr: architectural-patterns/microservices/tools/dapr.md
       - SteelToe: architectural-patterns/microservices/tools/steeltoe.md
       - Tye: architectural-patterns/microservices/tools/tye.md
+      - MassTransit: architectural-patterns/microservices/tools/mass-transit.md
+      - CAP: architectural-patterns/microservices/tools/cap.md
   - Serverless Architectural Pattern: architectural-patterns/serverless.md
   - MicroKernel Architectural Pattern: architectural-patterns/micro-kernel.md
   - Modular Monolith: architectural-patterns/modular-monolith.md
@@ -155,6 +166,7 @@ nav:
   - Strategy Pattern: design-patterns/strategy-pattern.md
   - Adapter Pattern: design-patterns/adapter-pattern.md
   - Command Message Pattern: design-patterns/command-message-pattern.md
+  - Chain Of Responsibility: design-patterns/chain-of-responsibility.md
 - Cloud Design Patterns: 
   - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
   - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
@@ -204,7 +216,6 @@ nav:
     - Traefik: cloud-native/load-balancing/traefik.md
     - Fabio: cloud-native/load-balancing/fabio.md
   - Paas (Platform as a Service):
-    - Paas: cloud-native/paas/index.md
     - Rancher: cloud-native/paas/rancher.md
     - OpenShift: cloud-native/paas/openshift.md
     - Heroku: cloud-native/paas/heroku.md
@@ -260,7 +271,6 @@ nav:
   - Azure Service Bus: azure/azure-service-bus.md
   - NATS: messaging/nats.md
 - Distributed Transactions: distributed-transactions.md
-- Concurrency: concurrency.md
 - Eventual Consistency: eventual-consistency.md
 - RESTful API Design: rest.md
 - Caching: caching.md
@@ -285,6 +295,7 @@ nav:
   - Azure Load Balancing: azure/azure-load-balancing.md
   - Azure Logic App: azure/azure-logic-app.md
   - Azure No SQL: azure/azure-nosql.md
+  - Azure Resource & Resource Group: azure/azure-resource.md
   - Azure Messaging:
     - Azure Messaging: azure/messaging/messaging.md
     - Azure Event Grid: azure/azure-event-grid.md
@@ -315,6 +326,7 @@ nav:
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
 - Event Storming: event-storming.md
+- Event Modeling: event-modeling.md
 - Open Source: open-source.md
 - Architecture Decision Records (ADR): adr.md
 - Engineering Blogs: engineering-blogs.md

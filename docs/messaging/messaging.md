@@ -61,6 +61,9 @@
 - [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
 - [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
 - [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://lukaszcoding.com/sharing-data-between-modules-in-modular-monolith/)
+- [Comparing Techniques for Communicating Between Services](https://ardalis.com/comparing-techniques-communicating-between-services/)
+- [Bus or Queue](https://ardalis.com/bus-or-queue/?utm_sq=gn4zxe3o0t)
+- [Improving Monolith's Availability](https://www.ledjonbehluli.com/posts/improving_monoliths_availability/)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -84,6 +87,10 @@
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 - [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - [Synchronous vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
+- [Moving work Out-of-Process using Brighter and RabbitMQ](https://www.youtube.com/watch?v=kG4WLiZEAuc)
+- [Building a Request Pipeline for Separating Concerns with Pipes & Filters](https://www.youtube.com/watch?v=msXtN15qXOE)
+- [Distributed Messaging Patterns](https://www.youtube.com/watch?v=ZGloN_GOc9o)
+
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
@@ -136,7 +143,7 @@
 - [Im5tu/OpenMessage](https://github.com/Im5tu/OpenMessage) - Receive messages from multiple sources using a centralised delivery pipeline
 - [SorenZ/Alamut.Kafka](https://github.com/SorenZ/Alamut.Kafka) - An opinionated approach to use Apache Kafka in Dotnet
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
-
+- [MesutAtasoy/Joker.Packages](https://github.com/MesutAtasoy/Joker.Packages)
 ## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

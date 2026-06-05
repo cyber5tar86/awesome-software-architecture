@@ -40,6 +40,10 @@
 - [Event-driven vs REST API interactions](https://apifriends.com/api-management/event-driven-vs-rest-api-interactions/)
 - [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
 - [3 Specifications to Consider When Designing Event-Driven Applications](https://medium.com/event-driven-utopia/3-specifications-to-consider-when-designing-event-driven-applications-c12685efd7ad)
+- [Versatile Events in Event Driven Architecture](https://thecloudblog.net/post/versatile-events-in-event-driven-architecture/)
+- [Many Faces of Event-driven Architecture](https://medium.com/event-driven-utopia/many-faces-of-event-driven-architecture-660a322ce1ce)
+- [How to build event-driven projections with Entity Framework](https://event-driven.io/en/how_to_do_events_projections_with_entity_framework/)
+
 ## 📺 Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 
@@ -58,6 +62,7 @@
 - [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
 - [What is Event Driven Architecture (EDA)?](https://www.youtube.com/watch?v=o2HJCGcYwoU)
 - [What is Event-driven Change Data Capture Process?](https://www.youtube.com/watch?v=-irkDCmHhKk)
+- [Event Driven Collaboration [eng] / Ian Cooper](https://www.youtube.com/watch?v=ztRwZ2FySds)
 ## Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 
