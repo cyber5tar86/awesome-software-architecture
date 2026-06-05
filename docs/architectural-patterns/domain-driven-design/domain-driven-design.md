@@ -7,6 +7,12 @@
 - [ddd-crew/free-ddd-learning-resources](https://github.com/ddd-crew/free-ddd-learning-resources#tactical-ddd--domain-as-code)
 - [How to learn Domain-Driven Design & Event Sourcing? Developer Journey Map and useful resources](https://dev.to/mateusznowak/how-to-learn-domain-driven-design-event-sourcing-my-own-developer-journey-map-and-useful-resources-308a)
 - [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
+- [ardalis/awesome-ddd](https://github.com/ardalis/awesome-ddd)
+- [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd)
+- [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
+- [ddd-crew/core-domain-charts](https://github.com/ddd-crew/core-domain-charts)
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+
 ## 📕 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -77,7 +83,15 @@
 - [Practical DDD in Golang: Aggregate](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
 - [What is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
 - [Domain-Driven Refactoring: Encapsulating Collections](https://jimmybogard.com/domain-driven-refactoring-encapsulating-collections/)
-
+- [Change Tracking while doing DDD (Revisited)](https://www.ledjonbehluli.com/posts/change_tracking_ddd_revisited/)
+- [How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)
+- [Implementing Domain Driven Design: Part I](https://dev.to/salah856/implementing-domain-driven-design-part-i-5a72)
+- [Implementing Domain Driven Design: Part II](https://dev.to/salah856/implementing-domain-driven-design-part-ii-2i36)
+- [Implementing Domain Driven Design: Part III](https://dev.to/salah856/implementing-domain-driven-design-part-iii-pe8)
+- [Implementing Domain Driven Design: Part IV](https://dev.to/salah856/implementing-domain-driven-design-part-iv-29m2)
+- [What is domain-centric architecture?](https://jlasoc.medium.com/what-is-domain-centric-architecture-e030e609c401)
+- [Modeling Relationships in a DDD Way](https://enterprisecraftsmanship.com/posts/modeling-relationships-in-ddd-way/)
+- [How to create better code using Domain-Driven Design](https://www.altkomsoftware.com/blog/create-better-code-using-domain-driven-design/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -89,7 +103,7 @@
 - [Webinar: Domain Driven Design](https://www.youtube.com/watch?v=dq7e_L4jIak)
 - [The Intersection of Microservices, Domain-Driven Design and Entity Framework Core](https://www.youtube.com/watch?v=DG8Qe7TJiIE)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
-
+- [Vladimir Khorikov: DDD in a nutshell](https://www.youtube.com/watch?v=kPV1SkdSnhE)
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core) - Self study: DDD, .net core, entity framework core
@@ -143,12 +157,26 @@
 - [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
 - [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
 - [ttulka/ddd-example-ecommerce](https://github.com/ttulka/ddd-example-ecommerce) - Domain-driven design example in Java with Spring framework
+- [ttulka/ddd-example-ecommerce-microservices](https://github.com/ttulka/ddd-example-ecommerce-microservices) - Domain-driven design microservices example
 - [marcinstelmach/Ecommerce.Api](https://github.com/marcinstelmach/Ecommerce.Api) - Ecommerce in .net core 2.2, C#, MediaTr, CQRS, DDD, Autofac, DI, Entity Framework Core, Memory Cache, Serilog
 - [thiagocruzrj/E-commerce-DDD](https://github.com/thiagocruzrj/E-commerce-DDD) - DDD applied in E-commerce context.
 - [devmentors/Inflow](https://github.com/devmentors/Inflow)
 - [kalintsenkov/BettingSystem](https://github.com/kalintsenkov/BettingSystem) - ASP.NET Core | Domain-Driven Design | Clean Architecture
 - [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.
 - [MesutAtasoy/Joker](https://github.com/MesutAtasoy/Joker) - An example of microservices container based application which implemented different approaches within each microservice (DDD, CQRS, Simple CRUD)
+- [canperk/NorthindDomainDrivenDesignSample](https://github.com/canperk/NorthindDomainDrivenDesignSample) - DDD with Northwind Sample Database
+- [thangchung/northwind-dotnet](https://github.com/thangchung/northwind-dotnet) - A full-stack .NET 6 Microservices build on Minimal APIs and C# 10
+- [sedatkocaer34/NorthwindDDDSample](https://github.com/sedatkocaer34/NorthwindDDDSample)
+- [devmentors/NPay](https://github.com/devmentors/NPay) - NPay is a simple virtual payments app built as a modular monolith.
+- [andresantarosa/CleanArchitectureExample](https://github.com/andresantarosa/CleanArchitectureExample) - CleanArchitectureExample Project
+- [asc-lab/better-code-with-ddd](https://github.com/asc-lab/better-code-with-ddd) - This repository contains code that accompanies presentation ASC LAB team gave at meetup about “Creating better code with Domain Driven Design”.
+- [wkrzywiec/library-hexagonal](https://github.com/wkrzywiec/library-hexagonal) - An example application written in Hexagonal (Ports and Adapter) architecture
+- [zkavtaskin/Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) - Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense.
+- [hamed-shirbandi/TaskoMask](https://github.com/hamed-shirbandi/TaskoMask)
+- [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
+- [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
+- [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.
+- [jbogard/presentations/DomainDrivenRefactoring](https://github.com/jbogard/presentations/tree/master/DomainDrivenRefactoring)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS
@@ -158,12 +186,15 @@
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 - [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
-## Books
-- [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
+- [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
+
+## 📚 Books
+
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
+- [Domain - Driven Design: Atacando as Complexidades no Coracao do Software Paperback – January 1, 2016](https://www.amazon.com/Domain-Atacando-Complexidades-Coracao-Software-dp-8550800651/dp/8550800651/)
+- [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy 1st Edition](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131/)
 - [Domain-Driven Design Distilled 1st Edition](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+- [Implementing Domain-Driven Design 1st Edition](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 - [Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice](https://www.amazon.com/Hands-Domain-Driven-Design-NET/dp/1788834097/ref=pd_vtp_5/137-5137322-0498527)
 - [Domain-Driven Design The First 15 Years Essays from the community](https://dddeurope.com/15years/)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

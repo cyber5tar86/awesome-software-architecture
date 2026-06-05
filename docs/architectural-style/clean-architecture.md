@@ -46,6 +46,7 @@
 - [Clean Event-Driven Architecture](https://valerii-udodov.com/posts/event-sourcing/clean-event-driven-architecture/)
 - [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 - [Clean Architecture Example & Breakdown](https://codeopinion.com/clean-architecture-example-breakdown/)
+- [Clean Architecture with ASP.NET Core](https://ardalis.com/clean-architecture-asp-net-core/)
 
 ## 📺 Videos
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 
@@ -68,6 +69,9 @@
 - [How to structure a .NET Solution (project separation & architecture)](https://www.youtube.com/watch?v=YiVqwoFMieg)
 - [Clean Architecture with ASP.NET Core by Steve Smith | BRDNUG June 2021](https://www.youtube.com/watch?v=D6IEnMTuawA)
 - [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
+- [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
+- [Clean Architecture with ASP.NET Core 6](https://www.youtube.com/watch?v=lkmvnjypENw)
+
 ## 🚀 Samples
 
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
@@ -115,9 +119,13 @@
 - [iancooper/CA-Tutorial](https://github.com/iancooper/CA-Tutorial) - Implementing the Clean Architecture in .NET
 - [dimatrubca/book-exchange-app](https://github.com/dimatrubca/book-exchange-app) - BookExchangeApp is a fully functioning application that allows users to exchange books, earn and buy points, and receive recomendations based on the rated books
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - .NET WebAPI Boilerplate Template built with .NET 6.0. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
+- [devmentors/PackIT](https://github.com/devmentors/PackIT) - PackIT is simple "packing list app" built on top of clean architecture and CQRS.
+- [TanvirArjel/CleanArchitecture](https://github.com/TanvirArjel/CleanArchitecture) - This repository contains the implementation of domain-driven design and clear architecture in ASP.NET Core.
+- [andresantarosa/CleanArchitectureExample](https://github.com/andresantarosa/CleanArchitectureExample) - CleanArchitectureExample Project
+- [referbruv/ContainerNinja.CleanArchitecture](https://github.com/referbruv/ContainerNinja.CleanArchitecture) - ContainerNinja is a boilerplate template project to demonstrate building a multi-container Full Stack application with ASP.NET Core (.NET 6) Web API following Clean Architecture, and Angular.
+- [Grauenwolf/CleanArchitecture](https://github.com/Grauenwolf/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
+- [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
+
 ## 📚 Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

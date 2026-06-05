@@ -61,6 +61,21 @@
 - [CQRS: Commanding via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-commanding-via-http/)
 - [CQRS without Multiple Data Sources](https://codeopinion.com/cqrs-without-multiple-data-sources/)
 - [CQS versus server generated IDs](https://blog.ploeh.dk/2014/08/11/cqs-versus-server-generated-ids/)
+- [CQRS: What? Why? How?](https://sderosiaux.medium.com/cqrs-what-why-how-945543482313)
+- [How to register all CQRS handlers by convention](https://event-driven.io/en/how_to_register_all_mediatr_handlers_by_convention/)
+- [CQRS is simpler than you think with .NET 6 and C# 10](https://event-driven.io/en/cqrs_is_simpler_than_you_think_with_net6/)
+- [Why I don't use MediatR for CQRS](https://cezarypiatek.github.io/post/why-i-dont-use-mediatr-for-cqrs/)
+- [CQRS & Event Sourcing Code Walk-Through](https://codeopinion.com/cqrs-event-sourcing-code-walk-through/)
+- [Should you use the Repository Pattern? With CQRS, Yes and No!](https://codeopinion.com/should-you-use-the-repository-pattern-with-cqrs-yes-and-no/)
+- [3 CQRS Architectures that Every Software Architect Should Know](https://levelup.gitconnected.com/3-cqrs-architectures-that-every-software-architect-should-know-a7f69aae8b6c)
+- [CQRS(Command-Query Responsibility Segregation)](https://www.eventstore.com/cqrs-pattern)
+- [What's the difference between a command and an event?](https://event-driven.io/en/whats_the_difference_between_event_and_command/)
+- [Can command return a value?](https://event-driven.io/en/can_command_return_a_value/)
+- [Busting some CQRS myths](https://lostechies.com/jimmybogard/2012/08/22/busting-some-cqrs-myths/)
+- [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/)
+- [Overselling Event Sourcing](https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/)
+- [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
+- [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
 
 ## 📺 Videos
 - [CQRS is simpler than you think with C#9 and .NET 5!](https://www.eventstore.com/webinars/cqrs-is-simpler-than-you-think)
@@ -75,6 +90,12 @@
 - [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
 - [CQRS - Event Sourcing || Deep Dive on Building Event Driven Systems || Part-1 ||](https://www.youtube.com/watch?v=3TwLEoLtpw0)
 - [CQRS - Event Sourcing || Deep Dive on Building Event Driven Systems || Part -2 ||](https://www.youtube.com/watch?v=MKdHSKeMpk0)
+- [Should you use the Repository Pattern? With CQRS, Yes and No!](https://www.youtube.com/watch?v=01lygxvbao4)
+- [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
+- [CQRS & Event Sourcing Code Walk-Through](https://www.youtube.com/watch?v=5aznkIEvkKc)
+- [Understanding CQRS Basics [ASP .NET C#]](https://www.youtube.com/watch?v=8uZd51-OAEw)
+- [Eventual Consistency is a UX Nightmare](https://www.youtube.com/watch?v=wEUTMuRSZT0)
+- [4Developers 2021: CQRS is simpler than you think with C#9 and .NET 5! - Oskar Dudycz](https://www.youtube.com/watch?v=Emno7yFkpPw)
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
@@ -82,6 +103,7 @@
 - [oskardudycz/GoldenEye](https://github.com/oskardudycz/GoldenEye) - The CQRS flavoured framework that will speed up your WebAPI and Microservices development
 - [Shriek-Projects/shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
+- [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 ## 🚀 Samples
 
 - [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
@@ -109,3 +131,7 @@
 - [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
 - [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
 - [dimatrubca/book-exchange-app](https://github.com/dimatrubca/book-exchange-app) - BookExchangeApp is a fully functioning application that allows users to exchange books, earn and buy points, and receive recomendations based on the rated books
+- [devmentors/PackIT](https://github.com/devmentors/PackIT) - PackIT is simple "packing list app" built on top of clean architecture and CQRS.
+- [Grauenwolf/PackIT](https://github.com/Grauenwolf/PackIT)
+- [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
+- [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.

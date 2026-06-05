@@ -17,6 +17,10 @@
 - [Web Site Scalability](http://horicky.blogspot.com/2008/03/web-site-scalability.html)
 - [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/#platform_layer)
 - [How to design a system to scale to your first 100 million users](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)
+- [How to scale projections in the event-driven systems?](https://event-driven.io/en/how_to_scale_projections_in_the_event_driven_systems/)
+- [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
+- [Autoscaling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling)
+
 ## 📺 Videos
 - [AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users ](https://www.youtube.com/watch?v=kKjm4ehYiMs)
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
@@ -38,6 +42,9 @@
 - [GOTO 2020 • Moving Fast at Scale • Randy Shoup](https://www.youtube.com/watch?v=R3rXXY6WZ50)
 - [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
 - [Randy Shoup - Service Architectures at Scale Lessons from Google & eBay](https://www.youtube.com/watch?v=fhm4QnyWvUo)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [Cloud Native Objects for High Scale & Performance](https://www.youtube.com/watch?v=iE8cisVgoj8)
+- [Competing Consumers Pattern for Scalability | Message Queues](https://www.youtube.com/watch?v=xv6Ljbq6me8)
+## 📚 Books
+- [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud 2nd Edition](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177/)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
+- [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894/)

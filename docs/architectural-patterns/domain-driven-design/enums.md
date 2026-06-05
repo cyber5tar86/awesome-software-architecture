@@ -12,10 +12,12 @@
 - [Enum Alternatives in C#](https://ardalis.com/enum-alternatives-in-c/)
 - [Listing Strongly Typed Enum Options in C#](https://ardalis.com/listing-strongly-typed-enum-options-in-c/)
 - [Is Enum an Entity or a Value Object?](https://www.getdrip.com/deliveries/247895cxmb7tqv7bsv8w?view_in_browser=true&__s=fk6miphh1sspz3nnxtpu)
+
+## 📺 Videos
+- [How to write "smarter" enums in C#](https://www.youtube.com/watch?v=CEZ6cF8eoeg)
+
 ## 📦 Libraries
 
 - [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

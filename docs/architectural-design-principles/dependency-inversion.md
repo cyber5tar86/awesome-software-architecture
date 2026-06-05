@@ -9,6 +9,6 @@
 
 - [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+## 🚀 Samples
+- [TanvirArjel/SolidPrinciples](https://github.com/TanvirArjel/SolidPrinciples) - Contains the clear examples of SOLID deign principles.
+

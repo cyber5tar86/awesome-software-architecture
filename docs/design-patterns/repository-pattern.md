@@ -22,14 +22,23 @@
 - [Should Controllers Reference Repositories or Services](https://ardalis.com/should-controllers-reference-repositories-services/)
 - [Architecting in the pit of doom: The evils of the repository abstraction layer](https://ayende.com/blog/4784/architecting-in-the-pit-of-doom-the-evils-of-the-repository-abstraction-layer)
 - [Implementing repository querying interface in EF Core DbContext](https://gunnarpeipman.com/ef-core-dbcontext-repository/)
+- [Repository pattern or DbContext - what's your poison?](https://www.reddit.com/r/dotnet/comments/rc2lzj/repository_pattern_or_dbcontext_whats_your_poison/)
+- [Repository Pattern C#](https://codewithshadman.com/repository-pattern-csharp/)
+- [Repository and Unit of Work Pattern](https://www.programmingwithwolfgang.com/repository-and-unit-of-work-pattern/)
+- [Should you use the Repository Pattern? With CQRS, Yes and No!](https://codeopinion.com/should-you-use-the-repository-pattern-with-cqrs-yes-and-no/)
+- [Implement Repository Pattern using .NET EF Core](https://thecodeblogger.com/2021/06/27/implement-repository-pattern-using-net-ef-core/)
+- [EF Core Repository with Specification Pattern in .NET](https://thecodeblogger.com/2021/07/01/ef-core-repository-with-specification-pattern-in-net/)
+- [Better Enhanced Repository Pattern Implementation in .NET ](https://levelup.gitconnected.com/better-enhanced-repository-pattern-implementation-in-net-c-4e6f4bbe48a9)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
-
+- [Should you use the Repository Pattern? With CQRS, Yes and No!](https://www.youtube.com/watch?v=01lygxvbao4)
+- [Reviewing the Specification Pattern and NuGet package](https://www.youtube.com/watch?v=BgWWbBUWyig)
 ## 🚀 Samples
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb/blob/15bd78ee5b753a51fd9f8214a6ee8f5007e2d40f/src/Infrastructure/Data/EfRepository.cs)
-- [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet/blob/main/src/N8T.Infrastructure.EfCore/Repository.cs)
+- [thangchung/clean-architecture-dotnet](thangchung/clean-architecture-dotnet/blob/main/src/N8T.Infrastructure.EfCore/Repository.cs)
 ## 📦 Libraries
+- [ardalis/Specification](https://github.com/ardalis/Specification) - Base class with tests for adding specifications to a DDD model
 - [FoundatioFx/Foundatio.Repositories](https://github.com/FoundatioFx/Foundatio.Repositories) - Generic repositories
 - [RobThree/MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of Official MongoDB C# driver
 - [urfnet/URF.Core](https://github.com/urfnet/URF.Core) - Unit of Work & Repositories Framework - .NET Core, NET Standard, Entity Framework Core. 100% extensible & lightweight. Live demo: https://goo.gl/QpJVgd
@@ -37,3 +46,8 @@
 - [esendir/MongoRepository](https://github.com/esendir/MongoRepository) - Repository pattern for MongoDB with extended features
 - [WeihanLi/WeihanLi.EntityFramework](https://github.com/WeihanLi/WeihanLi.EntityFramework) - EntityFramework extensions
 - [brunohbrito/MongoDB-RepositoryUoWPatterns](https://github.com/brunohbrito/MongoDB-RepositoryUoWPatterns) - Example of an implementation of Repository and Unit of Work Patterns with MongoDB for ASP.NET Core.
+- [TanvirArjel/EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
+- [Daniel127/EF-Unit-Of-Work](https://github.com/Daniel127/EF-Unit-Of-Work) - Repository and Unit of Work pattern implementation for Entity Framework Core.
+- [SharpRepository/SharpRepository](https://github.com/SharpRepository/SharpRepository) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.
+- [AhmedTarekHasan/BetterRepository](https://github.com/AhmedTarekHasan/BetterRepository)
+- [threenine/Threenine.Data](https://github.com/threenine/Threenine.Data) - Generic Repository Pattern for .net core

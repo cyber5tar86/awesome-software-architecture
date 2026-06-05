@@ -27,6 +27,16 @@
 - [Event Modeling & Modular Monolith | From colored cards to code through TDD](https://zycienakodach.pl/event-modeling-modularny-monolit)
 - [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 - [Improving Monolith's Availability](https://www.ledjonbehluli.com/posts/improving_monoliths_availability/)
+- [Long live the Monolith! Monolithic Architecture != Big Ball of Mud](https://codeopinion.com/long-live-the-monolith-monolithic-architecture-big-ball-of-mud/)
+- [Scaling a Monolith Horizontally](https://codeopinion.com/scaling-a-monolith-horizontally/)
+- [Good and Bad Monolith](https://blog.ttulka.com/good-and-bad-monolith)
+- [How to quickly scale a legacy monolith?](https://event-driven.io/en/how_to_quickly_scale_a_legacy_monolith/)
+- [Easy Modular Monolith — Part 1 — MVP](https://itnext.io/easy-modular-monolith-part-1-mvp-d57f47935e24)
+- [Easy Modular Monolith — Part 2— The OutBox Pattern](https://itnext.io/easy-modular-monolith-part-2-the-outbox-pattern-b4566724fb68)
+- [Easy Modular Monolith — Part 3 — Logging (Serilog and Seq)](https://itnext.io/easy-modular-monolith-part-3-logging-57caceac1ff5)
+- [Easy Modular Monolith — Part 4— Global Exception Handling](https://itnext.io/easy-modular-monolith-part-4-global-exception-handling-8355cc4905d4)
+- [Easy Modular Monolith — Part 5— JWT Authentication/Authorization](https://itnext.io/easy-modular-monolith-part-5-jwt-authentication-authorization-f7a0a275226f)
+- [Easy Modular Monolith — Part 6 — Synchronous communication between modules](https://itnext.io/easy-modular-monolith-part-5-synchronous-communication-between-modules-7af876f06c16)
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -39,6 +49,15 @@
 - [How to design and code a scaleable solution (from monolith to microservices)](https://www.youtube.com/watch?v=rzjy2DDPwio)
 - [Deconstructing the Monolith (Shopify Unite Track 2019)](https://www.youtube.com/watch?v=ISYKx8sa53g)
 - [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
+- [Long live the Monolith! Monolithic Architecture != Big Ball of Mud](https://www.youtube.com/watch?v=VGShtGU3hOc)
+- [Mini Course #2 Modular Monolith - Devmentors](https://www.youtube.com/watch?v=MkdutzVB3pY)
+- [Scaling Monolithic Applications](https://www.youtube.com/watch?v=qZB_uGuWvUI)
+- [Creating a Loosely Coupled Monolith](https://www.youtube.com/watch?v=48C-RsEu0BQ)
+- [START with a Monolith, NOT Microservices](https://www.youtube.com/watch?v=Z_pj1mUDKdw)
+- [Solution & Project Structure of a Loosely Coupled Monolith](https://www.youtube.com/watch?v=-1DU9c95ERs)
+- [Asynchronous Messaging in a Loosely Coupled Monolith](https://www.youtube.com/watch?v=Qi6TaIYprqc)
+- [Splitting up a Monolith to (micro)Services](https://www.youtube.com/watch?v=Inscvakv5XI)
+- [Avoiding a Big Ball of Mud! Coupling in a Monolith](https://www.youtube.com/watch?v=MLjjWkN44q4)
 ## 🚀 Samples
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system
@@ -66,4 +85,10 @@
 - [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
 - [devmentors/modular-framework](https://github.com/devmentors/modular-framework)
 - [devmentors/Inflow](https://github.com/devmentors/Inflow)
-
+- [devmentors/NPay](https://github.com/devmentors/NPay) - NPay is a simple virtual payments app built as a modular monolith.
+- [ttulka/ddd-example-ecommerce](https://github.com/ttulka/ddd-example-ecommerce) - Domain-driven design example in Java with Spring framework
+- [mgce/modular-monolith-nodejs](https://github.com/mgce/modular-monolith-nodejs) - A project showing the implementation of the modular monolith architecture in Node.js.
+- [drminnaar/chinook](https://github.com/drminnaar/chinook) - A playground for demonstrating concepts such as architecture, design, dotnet core, typescript, react, database and docker
+- [ttulka/ddd-example-ecommerce-kotlin](https://github.com/ttulka/ddd-example-ecommerce-kotlin) - Domain-driven design example in Kotlin with Spring framework
+- [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
+- [Ridikk12/ModularMonolith](https://github.com/Ridikk12/ModularMonolith)

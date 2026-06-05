@@ -47,6 +47,7 @@
 - [Publish Subscribe](https://sodocumentation.net/stackexchange-redis/topic/1610/publish-subscribe)
 - [Pub/Sub](https://redis.io/topics/pubsub)
 - [Scaling our inventory cache reads to 1000X](https://medium.com/myntra-engineering/scaling-our-inventory-cache-reads-to-1000x-84a8be1f576e)
+
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
@@ -77,7 +78,5 @@
 - [mjebrahimi/EasyCompressor](https://github.com/mjebrahimi/EasyCompressor) - ⚡ A compression library that implements many compression algorithms such as LZ4, Zstd, LZMA, Snappy, Brotli, GZip, and Deflate. It helps you to improve performance by reducing Memory Usage and Network Traffic for caching.
 - [VahidN/EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor) - EF Core Second Level Cache Interceptor
 - [marcoCasamento/Hangfire.Redis.StackExchange](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange) - HangFire Redis storage based on original (and now unsupported) Hangfire.Redis but using lovely StackExchange.Redis client
+- [ZiggyCreatures.FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - FusionCache is an easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features.
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

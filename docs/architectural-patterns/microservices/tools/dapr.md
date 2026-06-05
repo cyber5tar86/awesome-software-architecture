@@ -2,8 +2,11 @@
 # Dapr
 
 ## 📘 Resources
+- [GitHub Page](https://github.com/dapr/dapr)
 - [Dapr Youtube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA/videos)
 - [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr) - A cruated list of awesome Dapr application runtime related tools.
+- [dapr/quickstarts](https://github.com/dapr/quickstarts) - Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
+
 ## 📕 Articles
 - [Make microservices fun again with Dapr](https://daveabrock.com/2021/04/29/meet-dapr)
 - [Getting started with Dapr for .NET Developers](https://laurentkempe.com/2021/03/09/getting-started-with-dapr-for-dotnet-developers/)
@@ -25,6 +28,7 @@
 - [Exploring Dapr: Pub/Sub – Part 3: Azure Service Bus](https://yourazurecoach.com/2019/12/27/exploring-dapr-pub-sub-part-3-azure-service-bus/)
 - [Exploring Dapr: Running your first Dapr app in Kubernetes!](https://yourazurecoach.com/2019/12/30/exploring-dapr-running-your-first-dapr-app-in-kubernetes/)
 - [Simplify microservices with Dapr (Distributed Application Runtime)](https://www.gatevnotes.com/simplify-microservices-development-with-dapr-distributed-application-runtime/)
+
 ## 📺 Videos
 - [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
 - [Azure Singapore - Building distributed cloud native application with Dapr](https://www.youtube.com/watch?v=w_SaZ-e_1Vg)
@@ -37,7 +41,9 @@
 - [Alex Thissen — Dapr for building distributed .NET Core applications](https://www.youtube.com/watch?v=FyFr5HzsQXE)
 - [Learn all about the latest features in Dapr](https://www.youtube.com/watch?v=I7A1bdoKV5M)
 - [Distributed Application Runtime, Introduction for .Net Developers](https://www.youtube.com/watch?v=ruQFIPZl2QM)
-## Libraries
+- [Building reliable and portable microservices with Dapr and .NET](https://www.youtube.com/watch?v=Cb0tyU9uSLQ)
+- [Sidecar Pattern to SIMPLIFY services or just more COMPLEXITY?](https://www.youtube.com/watch?v=9zAjtcf9Wyo)
+## 📦 Libraries
 - [dapr/dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr
 
 ## 🚀 Samples
@@ -53,10 +59,10 @@
 - [sjefvanleeuwen/showcase](https://github.com/sjefvanleeuwen/showcase) - A Full Stack Journey with Micro Services and Micro Front Ends. Using dapr, kubernetes, react module federation and web assembly
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 - [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
-## Books
-- [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)
+- [andreatosato/dapr-cloudchampion](https://github.com/andreatosato/dapr-cloudchampion)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+## 📚 Books
+- [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)
+- [Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the Dapr event-driven runtime](https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native-ebook/dp/B08P5L81X8/)
+
  

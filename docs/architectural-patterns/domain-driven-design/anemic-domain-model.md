@@ -11,6 +11,4 @@
 ## 📺 Videos
 - [Domain-Driven Refactoring - Jimmy Bogard - NDC Oslo 2020](https://www.youtube.com/watch?v=_dQRAsVhCqA)
 - [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [Is an ANEMIC Domain Model really that BAD?](https://www.youtube.com/watch?v=aLFMJ_frafg)

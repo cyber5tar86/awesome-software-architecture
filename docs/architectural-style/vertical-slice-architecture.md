@@ -45,6 +45,12 @@
 - [Clean Architecture Example & Breakdown](https://codeopinion.com/clean-architecture-example-breakdown/)
 - [Vertical Slice testing done right: a tutorial](https://headspring.com/2020/09/02/testing-done-right-with-vertical-slice-architecture/)
 - [Restructuring to a Vertical Slice Architecture](https://codeopinion.com/restructuring-to-a-vertical-slice-architecture/)
+- [Avoiding Premature Software Abstractions](https://betterprogramming.pub/avoiding-premature-software-abstractions-8ba2e990930a)
+- [CQRS is simpler than you think with .NET 6 and C# 10](https://event-driven.io/en/cqrs_is_simpler_than_you_think_with_net6/)
+- [Building REST APIs In .Net 6 The Easy Way!](https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d)
+- [Organize by Feature](https://codeopinion.com/organize-by-feature/)
+- [Why I don’t like layered architecture for microservices](https://garywoodfine.com/why-i-dont-like-layered-architecture-for-microservices/)
+- [How to Implement Vertical Slice Architecture](https://garywoodfine.com/implementing-vertical-slice-architecture/)
 ## 📺 Videos
 
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
@@ -62,7 +68,7 @@
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 - [sandeepgangwar/Vertical-Slice-Architecture](https://github.com/sandeepgangwar/Vertical-Slice-Architecture)
-- [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold a .Net 5 Web-Api project with MongoDB as the data store.
+- [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold a .Net 6 Web-Api project with MongoDB as the data store.
 - [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) - Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
 - [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
 - [dcomartin/MusicStore](https://github.com/dcomartin/MusicStore) 
@@ -70,10 +76,17 @@
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) 
 - [ardalis/ApiEndpoints/tree/master/sample](https://github.com/ardalis/ApiEndpoints/tree/master/sample)
 - [PacktPublishing/ASP.NET-Core-5-Design-Patterns](https://github.com/PacktPublishing/ASP.NET-Core-5-Design-Patterns/tree/main/C15/Vertical%20Slice%20Architecture)
+- [isaacOjeda/MinimalApiArchitecture](https://github.com/isaacOjeda/MinimalApiArchitecture) - .NET 6 Minimal API with Vertical Slice Architecture
+- [NikiforovAll/minimal-api-example](https://github.com/NikiforovAll/minimal-api-example) - Original blog post: https://nikiforovall.github.io/dotnet/aspnetcore/2021/09/10/opinionated-minimal-api.html
+- [dj-nitehawk/MiniDevTo](https://github.com/dj-nitehawk/MiniDevTo) - The source code of the Dev.To article [Building REST APIs In .Net 6 The Easy Way!](https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d)
+- [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 6 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic
+- [oskardudycz/EventSourcing.NetCore/Sample/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [oskardudycz/EventSourcing.NetCore/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
+- [oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM) - Examples and Tutorials of Event Sourcing in JVM languages
+
+
 ## 📚 Books
 
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+
